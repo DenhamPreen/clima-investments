@@ -1,6 +1,5 @@
 Todo
 -----------
-- Waitlist linking
 - Code clean
 - For the iphone - use the avatar top left, 6 icons (renewable energe, low carbonm transport, plant based diet, recycling, new materials, energy storage, impactful finance)
 
@@ -36,4 +35,5 @@ make bullet points with ticks, make points slightly bigger
 - act now font bigger
 - update domainNS records
 - Mobile Friendlyness
+- Waitlist linking
 

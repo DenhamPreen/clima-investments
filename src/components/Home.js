@@ -17,7 +17,7 @@ class Home extends Component {
           <div className="row">
             <div className="col-md-6  col-sm-12  col-xs-12">
               <div className="text-left margin-move">
-                <h2 className="text-white mt-2 mb-3 above-the-fold-heading">
+                <h2 className="text-white mb-3 above-the-fold-heading">
                   The App-Based Platform for Net-Zero Carbon Emission
                   Investments
                 </h2>

@@ -1,13 +1,8 @@
 Todo
 -----------
-- Mobile Friendlyness
 - Waitlist linking
 - Code clean
-
-Feeback Notes
-----------
-
-For the iphone - use the avatar top left, 6 icons (renewable energe, low carbonm transport, plant based diet, recycling, new materials, energy storage, impactful finance)
+- For the iphone - use the avatar top left, 6 icons (renewable energe, low carbonm transport, plant based diet, recycling, new materials, energy storage, impactful finance)
 
 Completed
 -----------
@@ -40,4 +35,5 @@ make bullet points with ticks, make points slightly bigger
 - Numbers size position
 - act now font bigger
 - update domainNS records
+- Mobile Friendlyness
 

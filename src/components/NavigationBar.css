@@ -3,7 +3,7 @@
 }
 
 .email-input {
-  padding-left: 0.3rem;
+  padding: 0.3rem;
 }
 
 .join-waitist-container {
@@ -16,52 +16,28 @@
   border: none;
   background-color: #0aa4b4;
   color: white;
-  padding: 0.2rem 1rem;
-}
-
-.navigation-bar {
-  background-color: transparent;
-}
-
-.navigation-bar-scroll {
-  transition: 0.5s ease;
-  background-color: white !important;
-  border-bottom: 1px solid #ccc;
-}
-
-.navigation-bar a {
-  color: white !important;
-  /* font-weight: bold; */
-}
-
-.navigation-bar-scroll a {
-  color: black !important;
-}
-
-.navigation-bar a:hover {
-  color: #ccc !important;
+  padding: 0.35rem 1rem;
 }
 
 .header-logo-image {
   height: 6rem;
 }
 
-.hidden {
-  display: none;
-}
-
-.nav-item {
-  padding: 0 1rem;
-}
-
 @media only screen and (max-width: 767px) {
   .header-logo-image {
+    /* position: absolute;
+    top: 5px; */
+    width: 100%;
+    height: auto;
+  }
+  .nav-content {
+    padding-top: 0rem;
+  }
+  .hiddenOnMobile {
     display: none;
   }
-  .navigation-bar {
-    background-color: white;
-  }
-  .navigation-bar a {
-    color: black !important;
-  }
+}
+
+.inline-form {
+  display: inline;
 }

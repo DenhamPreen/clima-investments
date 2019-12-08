@@ -41,11 +41,10 @@ Need better quality image to scale dynamically
   border-color: #75c1ca !important;
 }
 
-.above-the-fold-heading {
-  font-size: 3rem !important;
-  margin-top: -3rem !important;
-}
-
 .margin-move {
   margin-top: -5rem !important;
+}
+
+.padding-mobile {
+  padding: 1rem;
 }

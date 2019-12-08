@@ -2,9 +2,9 @@ import React, { useState } from "react";
 
 const ContactForm = () => {
   const [enquiry, setEnquiry] = useState({
-    userName: "",
-    userEmail: "",
-    userMessage: ""
+    FNAME: "",
+    EMAIL: "",
+    PHONE: ""
   });
 
   const handleChange = event => {
@@ -14,104 +14,117 @@ const ContactForm = () => {
     });
   };
 
-  const handleSubmit = e => {
-    e.preventDefault();
-
-    if (
-      enquiry.userName != "" ||
-      enquiry.userEmail != "" ||
-      enquiry.userMobile != ""
-    ) {
-      // sendEmail(enquiry.userName, enquiry.userEmail, enquiry.userMessage);
-    }
-    setEnquiry({
-      userName: "",
-      userEmail: "",
-      userMobile: "",
-      userCountry: ""
-    });
-  };
-
   return (
     <div className="contactForm">
-      <div>
+      <span id="mc_embed_signup">
         <form
-          className="feedback-form"
-          onSubmit={handleSubmit}
-          style={{ textAlign: "left" }}
+          action="https://investments.us4.list-manage.com/subscribe/post?u=1a9dea38242c4c03c1f173d6e&amp;id=dfca79c487"
+          method="post"
+          id="mc-embedded-subscribe-form"
+          name="mc-embedded-subscribe-form"
+          className="validate"
+          target="_blank"
+          novalidate
         >
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12 mb-3 mb-md-0">
-                <div class="form-group">
-                  <input
-                    id="name-entry"
-                    name="userName"
-                    onChange={handleChange}
-                    placeholder="Name"
-                    required
-                    value={enquiry.userName}
-                    className="form-control  contact-input"
-                  />
-                </div>
-              </div>
-              <div className="col-md-12 mb-3 mb-md-0">
-                <div class="form-group">
-                  <input
-                    className="text-input contact-input"
-                    id="email-entry"
-                    name="userEmail"
-                    type="email"
-                    onChange={handleChange}
-                    placeholder="Email"
-                    required
-                    value={enquiry.userEmail}
-                    className="form-control  contact-input"
-                  />
-                </div>
-              </div>
-              <div className="col-md-12 mb-3 mb-md-0">
-                <div class="form-group">
-                  <input
-                    className="text-input contact-input"
-                    id="mobile-entry"
-                    name="userMobile"
-                    type="mobile"
-                    onChange={handleChange}
-                    placeholder="Mobile"
-                    required
-                    value={enquiry.userMobile}
-                    className="form-control  contact-input"
-                  />
-                </div>
-              </div>
-              <div className="col-md-12 mb-3 mb-md-0">
-                <div class="form-group">
-                  <input
-                    className="text-input contact-input"
-                    id="mobile-country"
-                    name="userCountry"
-                    type="text"
-                    onChange={handleChange}
-                    placeholder="Country of Residence"
-                    required
-                    value={enquiry.userCountry}
-                    className="form-control  contact-input"
-                  />
-                </div>
-              </div>
-              <div className="col-md-12 mb-3 mb-md-0">
-                <input
-                  type="submit"
-                  value="OK"
-                  id="sendEmail"
-                  className="contact-input contact-button"
-                />
-              </div>
+          <div id="mc_embed_signup_scroll">
+            <input
+              type="text"
+              value=""
+              name="FNAME"
+              onChange={handleChange}
+              value={enquiry.FNAME}
+              id="mce-FNAME"
+              placeholder="Name"
+              style={{
+                display: "block",
+                border: "none",
+                borderRadius: "0",
+                width: "100%",
+                padding: "0.3rem",
+                height: "40px",
+                margin: "1rem"
+              }}
+            />
+            <input
+              type="email"
+              value={enquiry.EMAIL}
+              onChange={handleChange}
+              name="EMAIL"
+              className="required email"
+              placeholder="Email"
+              id="mce-EMAIL"
+              style={{
+                display: "block",
+                border: "none",
+                borderRadius: "0",
+                width: "100%",
+                padding: "0.3rem",
+                height: "40px",
+                margin: "1rem"
+              }}
+            />
+            <input
+              type="text"
+              value=""
+              value={enquiry.PHONE}
+              onChange={handleChange}
+              name="PHONE"
+              placeholder="Mobile"
+              id="mce-PHONE"
+              style={{
+                border: "none",
+                borderRadius: "0",
+                padding: "0.3rem",
+                height: "40px",
+                width: "100%",
+                boxSizing: "border-box",
+                margin: " 0 1rem 1rem 1rem"
+              }}
+            />
+            <div id="mce-responses" class="clear">
+              <div
+                class="response"
+                id="mce-error-response"
+                style={{ display: "none" }}
+              ></div>
+              <div
+                class="response"
+                id="mce-success-response"
+                style={{ display: "none" }}
+              ></div>
+            </div>
+            <div
+              style={{ position: "absolute", left: "-5000px" }}
+              aria-hidden="true"
+            >
+              <input
+                type="text"
+                name="b_1a9dea38242c4c03c1f173d6e_dfca79c487"
+                tabindex="-1"
+                value=""
+              />
+            </div>
+            <div class="clear" style={{ width: "100%", margin: "0" }}>
+              <input
+                type="submit"
+                value="OK"
+                name="subscribe"
+                id="mc-embedded-subscribe"
+                className="contact-input contact-button"
+                style={{
+                  border: "none",
+                  borderRadius: "0",
+                  padding: "0.3rem",
+                  height: "40px",
+                  width: "40%",
+                  margin: "auto",
+                  boxSizing: "border-box"
+                }}
+              />
             </div>
           </div>
         </form>
-      </div>
+      </span>
     </div>
   );
 };

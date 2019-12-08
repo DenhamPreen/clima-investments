@@ -1,0 +1,48 @@
+.onboard-section {
+  background-color: #3e7b81;
+  color: #bfbfbf;
+}
+
+.onboard-details {
+  padding: 5rem 0rem 5rem 5rem;
+}
+
+.onboard-details h3 {
+  font-weight: 400;
+  font-size: 2.4rem;
+  text-align: left;
+}
+
+.onboard-details h5 {
+  margin-left: 2rem;
+}
+
+.thin-text {
+  font-weight: 200;
+}
+
+.iphones {
+  width: 100%;
+}
+
+.impact-subheading {
+  font-weight: 300;
+  font-size: 2rem;
+  color: #4d585a;
+  padding-bottom: 1.6rem;
+}
+
+.invest-for-impact-section p {
+  color: #4d585a;
+}
+
+.icons-for-impact {
+  font-size: 3rem;
+}
+
+.underline-heading {
+  border-color: #12717b;
+  border-width: 0.3rem;
+  padding-bottom: 0.2rem;
+  width: 10rem;
+}

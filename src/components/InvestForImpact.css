@@ -1,0 +1,26 @@
+.invest-for-impact-section {
+  background-color: #bfbfbf;
+  padding: 4rem 0rem;
+}
+
+.impact-subheading {
+  font-weight: 300;
+  font-size: 2rem;
+  color: #4d585a;
+  padding-bottom: 1.6rem;
+}
+
+.invest-for-impact-section p {
+  color: #4d585a;
+}
+
+.icons-for-impact {
+  font-size: 3rem;
+}
+
+.underline-heading {
+  border-color: #12717b;
+  border-width: 0.3rem;
+  padding-bottom: 0.2rem;
+  width: 10rem;
+}

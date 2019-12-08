@@ -1,0 +1,15 @@
+Todo
+-----------
+- Mobile Friendlyness
+- Google Analytics
+- Waitlist linking
+- Deploying to now
+- Linking to domain
+- https
+- icons
+- iphone screen
+- Git
+
+Completed
+-----------
+- 

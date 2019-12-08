@@ -1,0 +1,36 @@
+.quote-section {
+  background-color: #bfbfbf;
+  padding: 4rem 0rem;
+  background: url("/assets/orig.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.quote-container {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.quote-text {
+  padding: 2rem 4rem 1rem 4rem;
+  text-align: center;
+}
+
+.quote-text h5 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.opening-quote {
+  position: absolute;
+  left: 0.5rem;
+  top: 1rem;
+  width: 4rem;
+}
+.closing-quote {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 5rem;
+  width: 4rem;
+}

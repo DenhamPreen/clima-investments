@@ -1,0 +1,46 @@
+/* 
+Need better quality image to scale dynamically
+.logo-image{
+    width: 60vw;
+} */
+
+.app-image {
+  width: 70%;
+  margin: auto;
+}
+
+.masthead {
+  position: relative;
+  display: block;
+}
+
+.resource-download-link {
+  color: #75c1ca;
+  text-decoration: none;
+}
+
+.resource-download-link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.resource-download-link:visited {
+  color: #75c1ca;
+  text-decoration: none;
+}
+
+.lima-button {
+  color: #fff !important;
+  background-color: #3197a1 !important;
+  border-color: #3197a1 !important;
+}
+
+.lima-button:hover {
+  color: #fff !important;
+  background-color: #75c1ca !important;
+  border-color: #75c1ca !important;
+}
+
+.above-the-fold-heading {
+  font-size: 3rem !important;
+}

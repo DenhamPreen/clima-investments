@@ -1,0 +1,72 @@
+.signup-section {
+  padding-top: 5rem;
+}
+
+.signup-section {
+  padding: 1rem 0;
+  background: 
+  /* linear-gradient(
+      to bottom,
+      rgba(22, 22, 22, 0.1) 0%,
+      rgba(22, 22, 22, 0.7) 50%,
+      #161616 100%
+    ), */ url("/assets/contact-background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.signup-section h2 {
+  color: #4c585a;
+}
+
+.signup-section h4 {
+  color: #acacac;
+  font-weight: 300;
+}
+
+.contact-input {
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+.contact-button {
+  width: 100%;
+  padding: 0.2rem;
+}
+
+.signup-section .form-inline input {
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  padding: 1.25rem 2rem;
+  height: auto;
+  font-family: "Varela Round";
+  font-size: 80%;
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+  border: 0;
+}
+
+.contact-section {
+  padding-bottom: 1rem;
+}
+
+.contact-section a {
+  color: #4abeb7 !important;
+  margin: 0.2rem;
+}
+
+.contact-section .card hr {
+  border-color: #4abeb7;
+  border-width: 0.25rem;
+  width: 3rem;
+}
+
+.icon-primary {
+  color: #4abeb7 !important;
+}
+
+.contactForm {
+  margin: 2rem;
+  color: white;
+}

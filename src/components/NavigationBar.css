@@ -1,0 +1,67 @@
+.nav-content {
+  padding-top: 1rem;
+}
+
+.email-input {
+  padding-left: 0.3rem;
+}
+
+.join-waitist-container {
+  background-color: rgba(255, 255, 255, 0.9);
+  height: 4rem;
+  margin: 1rem auto;
+}
+
+.ok-button {
+  border: none;
+  background-color: #0aa4b4;
+  color: white;
+  padding: 0.2rem 1rem;
+}
+
+.navigation-bar {
+  background-color: transparent;
+}
+
+.navigation-bar-scroll {
+  transition: 0.5s ease;
+  background-color: white !important;
+  border-bottom: 1px solid #ccc;
+}
+
+.navigation-bar a {
+  color: white !important;
+  /* font-weight: bold; */
+}
+
+.navigation-bar-scroll a {
+  color: black !important;
+}
+
+.navigation-bar a:hover {
+  color: #ccc !important;
+}
+
+.header-logo-image {
+  height: 6rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.nav-item {
+  padding: 0 1rem;
+}
+
+@media only screen and (max-width: 767px) {
+  .header-logo-image {
+    display: none;
+  }
+  .navigation-bar {
+    background-color: white;
+  }
+  .navigation-bar a {
+    color: black !important;
+  }
+}

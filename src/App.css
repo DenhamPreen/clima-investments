@@ -1,9 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
-
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
-  font-family: Montserrat;
+  font-family: "Montserrat";
 }
 
 #mainNav {
@@ -99,7 +97,7 @@ html {
       rgba(22, 22, 22, 0.5) 0%,
       rgba(22, 22, 22, 0.8) 75%,
       #161616 100%
-    ), */ url("/assets/stock/people-found-light-15.jpg");
+    ), */ url("/assets/stock/people-found-light-25.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -107,7 +105,7 @@ html {
 }
 
 .masthead h1 {
-  font-family: "Varela Round";
+  font-family: "Montserrat";
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
@@ -150,7 +148,7 @@ html {
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
-  font-family: "Varela Round";
+  font-family: "Montserrat";
   font-size: 80%;
   text-transform: uppercase;
   letter-spacing: 0.15rem;
@@ -301,7 +299,7 @@ html {
 
 .contact-section .card h4 {
   font-size: 0.8rem;
-  font-family: "Varela Round";
+  font-family: "Montserrat";
   text-transform: uppercase;
   letter-spacing: 0.15rem;
 }
@@ -335,7 +333,7 @@ html {
 }
 
 body {
-  font-family: "Nunito";
+  font-family: "Montserrat";
   letter-spacing: 0.0625em;
 }
 

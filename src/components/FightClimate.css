@@ -7,9 +7,30 @@
   padding: 1rem 3rem;
 }
 
-.point-number {
+.point-number-1 {
   position: absolute;
-  left: 1.4rem;
+  left: 1.5rem;
+  top: 0.4rem;
+  color: #f1324d;
+  font-size: 4rem;
+}
+.point-number-2 {
+  position: absolute;
+  left: 1.2rem;
+  top: 0.4rem;
+  color: #f1324d;
+  font-size: 4rem;
+}
+.point-number-3 {
+  position: absolute;
+  left: 1.2rem;
+  top: 0.4rem;
+  color: #f1324d;
+  font-size: 4rem;
+}
+.point-number-4 {
+  position: absolute;
+  left: 1rem;
   top: 0.4rem;
   color: #f1324d;
   font-size: 4rem;

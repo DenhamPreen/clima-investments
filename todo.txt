@@ -2,19 +2,12 @@ Todo
 -----------
 - Mobile Friendlyness
 - Waitlist linking
-- Linking to domain 
-- iphone screen
-
-
-- update domainNS records
+- Code clean
 
 Feeback Notes
 ----------
-- Figure out font
 
 For the iphone - use the avatar top left, 6 icons (renewable energe, low carbonm transport, plant based diet, recycling, new materials, energy storage, impactful finance)
-
-
 
 Completed
 -----------
@@ -29,9 +22,22 @@ Completed
 
 - BROKERAGE ACCOUNT POINTS
 make bullet points with ticks, make points slightly bigger
+- Figure out font
 
 - footer make text bigger
 - Keywords and description
 - Remove borders around the boxes
 - Make numbers clima pink
 - After quote add grey section with "Not ready to invest?  But curious to learn more? – Open an account with no investment and for two months experience what we can offer. Then transfer funds once you are happy with how we plan to invest your savings."
+- Linking to domain 
+
+
+
+- Make home image bolder
+- Raise home page text
+- Make icons matching height
+- Center icons and text below
+- Numbers size position
+- act now font bigger
+- update domainNS records
+

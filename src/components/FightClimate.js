@@ -16,7 +16,7 @@ const FightClimate = () => {
               <div className="row">
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
-                    <h1 className="point-number">1</h1>
+                    <h1 className="point-number-1">1</h1>
                     <h5>Use our App</h5>
                     <p>
                       {" "}
@@ -27,14 +27,14 @@ const FightClimate = () => {
                 </div>
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
-                    <h1 className="point-number">2</h1>
+                    <h1 className="point-number-2">2</h1>
                     <h5>Learn about investments </h5>
                     <p> Access our tutorials </p>
                   </div>
                 </div>
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
-                    <h1 className="point-number">3</h1>
+                    <h1 className="point-number-3">3</h1>
                     <h5>Be part of our community</h5>
                     <p>
                       {" "}
@@ -45,7 +45,7 @@ const FightClimate = () => {
                 </div>
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
-                    <h1 className="point-number">4</h1>
+                    <h1 className="point-number-4">4</h1>
                     <h5>Refer your friends</h5>
                     <p>
                       {" "}

@@ -12,9 +12,11 @@ class Contact extends Component {
               <div className="col-md-6 col-lg-6 col-sm-12 mx-auto">
                 <div>
                   <h2>LAUNCHING SOON</h2>
+                  <br />
                   <h4>
-                    Be part of the journey. Sign up to our waiting list and keep
-                    up with our news as we prepare to launch.
+                    <strong>Be part of the journey.</strong> Sign up to our
+                    waiting list and keep up with our news as we prepare to
+                    launch.
                   </h4>
                 </div>
               </div>

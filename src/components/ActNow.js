@@ -11,27 +11,30 @@ const ActNow = () => {
             <hr className="underline-heading" />
             <h5 className="impact-subheading">
               The transition to carbon neutrality will require large-scale
-              investments.
+              investments
             </h5>
             <div className="container">
               <div className="row">
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-question-circle mb-4 icons-for-act"></i>
-                  <p> Not ready to invest? But curious to learn more?</p>
+                  <h5>
+                    <strong> Not ready to invest?</strong> But curious to learn
+                    more?
+                  </h5>
                 </div>
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-edit mb-4 icons-for-act"></i>
-                  <p>
-                    Open an account with no investment and for two months
-                    experience what we can offer.
-                  </p>
+                  <h5>
+                    <strong>Open an account with no investment</strong> and for
+                    two months experience what we can offer
+                  </h5>
                 </div>
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-coins mb-4 icons-for-act"></i>
-                  <p>
-                    Then transfer funds once you are happy with how we plan to
-                    invest your savings.
-                  </p>
+                  <h5>
+                    <strong>Then transfer funds</strong> once you are happy with
+                    how we plan to invest your savings
+                  </h5>
                 </div>
               </div>
             </div>

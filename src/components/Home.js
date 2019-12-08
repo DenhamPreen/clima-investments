@@ -16,7 +16,7 @@ class Home extends Component {
         <div className="container d-flex h-100 align-items-center home-content">
           <div className="row">
             <div className="col-md-6  col-sm-12  col-xs-12">
-              <div className="mx-auto text-left">
+              <div className="text-left margin-move">
                 <h2 className="text-white mt-2 mb-3 above-the-fold-heading">
                   The App-Based Platform for Net-Zero Carbon Emission
                   Investments
@@ -26,15 +26,6 @@ class Home extends Component {
                 </h3>
               </div>
             </div>
-            {/* <div className="col-md-6 col-sm-12 col-xs-12">
-              <div className="mx-auto text-center">
-                <img
-                  className="img-fluid mb-3 mb-lg-0 app-image"
-                  src="/assets/watermarklogo.png"
-                  alt="Clima Investments App"
-                />
-              </div>
-            </div> */}
           </div>
         </div>
       </header>

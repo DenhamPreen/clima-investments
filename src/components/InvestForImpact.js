@@ -12,7 +12,7 @@ const InvestForImpact = () => {
             <h5 className="impact-subheading">Invest for Impact</h5>
             <div className="container">
               <div className="row">
-                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
+                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-money-check-alt mb-4 icons-for-impact"></i>
                   <h5>Massive infrastructure needed</h5>
                   <p>
@@ -21,7 +21,7 @@ const InvestForImpact = () => {
                     will be needed before 2050
                   </p>
                 </div>
-                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
+                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-leaf mb-4 icons-for-impact"></i>
                   <h5>New investment opportunities</h5>
                   <p>
@@ -30,7 +30,7 @@ const InvestForImpact = () => {
                     early 2020s{" "}
                   </p>
                 </div>
-                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
+                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-chart-line mb-4 icons-for-impact"></i>
                   <h5>Gain access to truly sustainable listed securities</h5>
                   <p>
@@ -39,7 +39,7 @@ const InvestForImpact = () => {
                     trusts
                   </p>
                 </div>
-                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
+                <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-user-shield mb-4 icons-for-impact"></i>
                   <h5>Solid assessment required</h5>
                   <p>

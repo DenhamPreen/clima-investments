@@ -71,3 +71,16 @@ li:before {
   padding-bottom: 0.2rem;
   width: 10rem;
 }
+
+@media (min-width: 1900px) {
+  .onboard-details h3 {
+    font-weight: 400;
+    font-size: 4rem;
+    text-align: left;
+  }
+
+  .onboard-details h5 {
+    margin-left: 2rem;
+    font-size: 3rem;
+  }
+}

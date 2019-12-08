@@ -23,6 +23,7 @@ class Home extends Component {
                   Net-Zero Carbon
                   <br /> Emission Investments
                 </h2>
+                <br />
                 <h3 style={{ color: "#F0314C" }}>
                   Making green investments accessible and simple
                 </h3>

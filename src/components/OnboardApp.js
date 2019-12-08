@@ -39,7 +39,7 @@ const OnboardApp = () => {
                 <h5>
                   <strong>Save frequently</strong>{" "}
                   <span className="thin-text">
-                    with subsequent investments as little as GBP 10
+                    with subsequent investments as little as £10
                   </span>
                 </h5>
               </li>

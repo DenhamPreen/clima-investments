@@ -1,6 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 html {
   scroll-behavior: smooth;
   overflow-x: hidden;
+  font-family: Montserrat;
 }
 
 #mainNav {
@@ -117,7 +120,7 @@ html {
 }
 
 .masthead h2 {
-  max-width: 20rem;
+  /* max-width: 20rem; */
   font-size: 1rem;
 }
 
@@ -139,7 +142,7 @@ html {
     letter-spacing: 0.8rem;
   }
   .masthead h2 {
-    max-width: 30rem;
+    /* max-width: 30rem; */
     font-size: 1.25rem;
   }
 }

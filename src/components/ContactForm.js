@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { sendEmail } from "../utils/SendGridEmail";
 
 const ContactForm = () => {
   const [enquiry, setEnquiry] = useState({
@@ -23,7 +22,7 @@ const ContactForm = () => {
       enquiry.userEmail != "" ||
       enquiry.userMobile != ""
     ) {
-      sendEmail(enquiry.userName, enquiry.userEmail, enquiry.userMessage);
+      // sendEmail(enquiry.userName, enquiry.userEmail, enquiry.userMessage);
     }
     setEnquiry({
       userName: "",

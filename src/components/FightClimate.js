@@ -12,7 +12,7 @@ const FightClimate = () => {
               IMPACT ASSESSMENT
             </h3>
             <hr className="underline-heading" />
-            <div className="container-fluid">
+            <div className="container">
               <div className="row">
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
@@ -20,26 +20,26 @@ const FightClimate = () => {
                     <h5>Use our App</h5>
                     <p>
                       {" "}
-                      to get our impact scorecard on each security that will be
-                      in your allocated portfolio
+                      Get our impact scorecard on each security that will be in
+                      your allocated portfolio
                     </p>
                   </div>
                 </div>
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
                     <h1 className="point-number">2</h1>
-                    <h5>Learn</h5>
-                    <p> about investments by accessing our tutorials </p>
+                    <h5>Learn about investments </h5>
+                    <p> Access our tutorials </p>
                   </div>
                 </div>
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">
                     <h1 className="point-number">3</h1>
-                    <h5>Be part</h5>
+                    <h5>Be part of our community</h5>
                     <p>
                       {" "}
-                      of our community and gain access to relevant information
-                      on key companies, policies, and global warming research
+                      Gain access to relevant information on key companies,
+                      policies, and global warming research
                     </p>
                   </div>
                 </div>

@@ -8,6 +8,7 @@ import OnboardApp from "./components/OnboardApp";
 import TradingBlurb from "./components/TradingBlurb";
 import FightClimate from "./components/FightClimate";
 import Quote from "./components/Quote";
+import ActNow from "./components/ActNow";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
@@ -25,6 +26,7 @@ class App extends Component {
           <TradingBlurb />
           <FightClimate />
           <Quote />
+          <ActNow />
           <Contact />
           <Footer />
         </Fragment>

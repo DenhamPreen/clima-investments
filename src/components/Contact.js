@@ -13,8 +13,8 @@ class Contact extends Component {
                 <div>
                   <h2>LAUNCHING SOON</h2>
                   <h4>
-                    Sign up to our waiting list to be part of the journey. Keep
-                    up with our progress as we prepare to launch.
+                    Be part of the journey. Sign up to our waiting list and keep
+                    up with our news as we prepare to launch.
                   </h4>
                 </div>
               </div>

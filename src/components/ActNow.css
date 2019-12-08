@@ -1,0 +1,28 @@
+.fight-climate-section {
+  background-color: #bfbfbf;
+  padding: 4rem 0rem;
+}
+
+.how-point-container {
+  padding: 1rem 3rem;
+}
+
+.point-number {
+  position: absolute;
+  left: 1.4rem;
+  top: 0.4rem;
+  color: #f1324d;
+  font-size: 4rem;
+}
+
+.invest-for-impact-section p {
+  color: #4d585a;
+}
+
+.icons-for-act {
+  font-size: 3rem;
+  text-align: center;
+  margin: auto;
+  display: inline-block;
+  width: 100%;
+}

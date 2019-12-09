@@ -3,14 +3,14 @@ import "./InvestForImpact.css";
 
 const InvestForImpact = () => {
   return (
-    <div className="container-fluid align-items-center invest-for-impact-section">
+    <div className="container-fluid align-items-center invest-for-impact-section large-screen-spacing">
       <div className="row">
-        <div className="col-md-12  col-sm-12  col-xs-12 mx-auto">
+        <div className="col-md-10  col-sm-12  col-xs-12 mx-auto">
           <div className="mx-auto text-center">
             <h3>BE PART OF FUNDING THE GREEN TRANSITION</h3>
             <hr className="underline-heading" />
             <h5 className="impact-subheading">Invest for Impact</h5>
-            <div className="container">
+            <div className="container-fluid">
               <div className="row">
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-money-check-alt mb-4 icons-for-impact"></i>

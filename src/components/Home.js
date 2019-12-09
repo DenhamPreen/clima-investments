@@ -13,11 +13,11 @@ class Home extends Component {
     return (
       <header className="masthead" id="home">
         <NavigationBar />
-        <div className="container d-flex h-100 align-items-center home-content">
+        <div className="container-fluid d-flex h-100 align-items-center home-content">
           <div className="row">
-            <div className="col-md-9  col-sm-12  col-xs-12">
+            <div className="col-md-12  col-sm-12  col-xs-12">
               <div className="text-left margin-move">
-                <h2 className="text-white mb-3 above-the-fold-heading">
+                <h2 className="text-white">
                   The App-Based
                   <br /> Platform for <br />
                   Net-Zero Carbon

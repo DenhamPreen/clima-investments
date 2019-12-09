@@ -3,9 +3,9 @@ import "./OnboardApp.css";
 
 const OnboardApp = () => {
   return (
-    <div className="container-fluid onboard-section">
-      <div className="row">
-        <div className="col-md-6  col-sm-12  col-xs-12">
+    <div className="container-fluid  onboard-section">
+      <div className="row d-flex h-100 align-items-center  mx-auto">
+        <div className="col-md-4 col-lg-6 col-sm-12  col-xs-12">
           <div className="onboard-details">
             <h3>
               {" "}
@@ -53,7 +53,7 @@ const OnboardApp = () => {
             </ul>
           </div>
         </div>
-        <div className="col-md-6  col-sm-12  col-xs-12 iphone-screen">
+        <div className="col-md-4 col-lg-6 col-sm-12  col-xs-12 iphone-screen">
           <img src="/assets/app.png" className="iphones" />
         </div>
       </div>

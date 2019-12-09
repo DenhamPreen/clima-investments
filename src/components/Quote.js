@@ -3,7 +3,7 @@ import "./Quote.css";
 
 const Quote = () => {
   return (
-    <div className="container-fluid align-items-center quote-section">
+    <div className="container-fluid align-items-center quote-section large-screen-spacing">
       <div className="row">
         <div className="col-md-12  col-sm-12  col-xs-12 mx-auto">
           <div className="mx-auto text-center">

@@ -3,7 +3,7 @@ import "./TradingBlurb.css";
 
 const TradingBlurb = () => {
   return (
-    <div className="container-fluid align-items-center trading-blurb">
+    <div className="container-fluid align-items-center trading-blurb  large-screen-spacing">
       <div className="row">
         <div className="col-md-1 col-sm-12  col-xs-12"></div>
         <div className="col-md-10 col-sm-12  col-xs-12 text-center mx-auto">

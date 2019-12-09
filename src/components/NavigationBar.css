@@ -7,9 +7,18 @@
 }
 
 .join-waitist-container {
-  background-color: rgba(255, 255, 255, 0.9);
   height: 4rem;
-  margin: 1rem auto;
+  margin: 1rem;
+  margin-right: 2rem;
+}
+
+.right-float {
+  float: right;
+}
+
+.background-fade-color {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 1rem 3rem;
 }
 
 .ok-button {
@@ -21,6 +30,7 @@
 
 .header-logo-image {
   height: 6rem;
+  margin-left: 2rem;
 }
 
 @media only screen and (max-width: 767px) {
@@ -29,6 +39,7 @@
     top: 5px; */
     width: 100%;
     height: auto;
+    margin-left: auto !important;
   }
   .nav-content {
     padding-top: 0rem;
@@ -40,4 +51,16 @@
 
 .inline-form {
   display: inline;
+}
+
+@media (min-width: 1900px) {
+  .header-logo-image {
+    height: 10rem;
+    margin-left: 10vw !important;
+  }
+  .join-waitist-container {
+    height: 8rem;
+    margin: 1rem;
+    margin-right: 10vw !important;
+  }
 }

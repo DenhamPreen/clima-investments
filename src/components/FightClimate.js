@@ -3,7 +3,7 @@ import "./FightClimate.css";
 
 const FightClimate = () => {
   return (
-    <div className="container-fluid align-items-center fight-climate-section">
+    <div className="container-fluid align-items-center fight-climate-section large-screen-spacing">
       <div className="row">
         <div className="col-md-10  col-sm-12  col-xs-12 mx-auto">
           <div className="mx-auto text-center">

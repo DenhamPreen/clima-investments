@@ -6,7 +6,7 @@ class Contact extends Component {
   render = () => {
     return (
       <div>
-        <section id="signup" className="signup-section">
+        <section id="signup" className="signup-section large-screen-spacing">
           <div className="container-fluid  ">
             <div className="row  d-flex h-100 align-items-center ">
               <div className="col-md-4 col-lg-4 col-sm-12 mx-auto px-3">

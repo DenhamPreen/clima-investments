@@ -42,9 +42,25 @@ Need better quality image to scale dynamically
 }
 
 .margin-move {
-  margin-top: -5rem !important;
+  margin-top: -4rem !important;
+  margin-left: 14vw;
 }
 
 .padding-mobile {
   padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .margin-move {
+    margin-left: auto;
+  }
+}
+
+@media (min-width: 1900px) {
+  .masthead h2 {
+    font-size: 5rem;
+  }
+  .masthead h3 {
+    font-size: 3rem;
+  }
 }

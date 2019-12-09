@@ -73,14 +73,24 @@ li:before {
 }
 
 @media (min-width: 1900px) {
+  .onboard-details {
+    padding: 10rem 0rem 10rem 10rem;
+  }
+  .iphones {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    display: block;
+  }
+
   .onboard-details h3 {
     font-weight: 400;
-    font-size: 4rem;
+    font-size: 2rem;
     text-align: left;
   }
 
   .onboard-details h5 {
     margin-left: 2rem;
-    font-size: 3rem;
+    font-size: 2rem;
   }
 }

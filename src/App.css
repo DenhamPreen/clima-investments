@@ -4,6 +4,13 @@ html {
   font-family: "Montserrat";
 }
 
+@media (min-width: 1900px) {
+  .large-screen-spacing {
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
+  }
+}
+
 #mainNav {
   height: 62px;
   background-color: #fff;

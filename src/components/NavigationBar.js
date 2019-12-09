@@ -14,18 +14,18 @@ const NavigationBar = () => {
   };
 
   return (
-    <div className="container nav-content">
+    <div className="container-fluid nav-content">
       <div className="row">
         <div className="col-md-6  col-sm-12  col-xs-12">
           <img
-            className="header-logo-image "
+            className="header-logo-image"
             src="/assets/logotipo.png"
             alt="Clima Investments"
           />
         </div>
         <div className="col-md-6  col-sm-12  col-xs-12 hiddenOnMobile">
-          <div className="join-waitist-container d-flex align-items-center">
-            <span className="mx-auto">
+          <div className="join-waitist-container d-flex align-items-center right-float">
+            <span className=" background-fade-color">
               JOIN OUR WAITLIST{" "}
               <span id="mc_embed_signup">
                 <form

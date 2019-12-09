@@ -5,14 +5,14 @@ const FightClimate = () => {
   return (
     <div className="container-fluid align-items-center fight-climate-section">
       <div className="row">
-        <div className="col-md-12  col-sm-12  col-xs-12 mx-auto">
+        <div className="col-md-10  col-sm-12  col-xs-12 mx-auto">
           <div className="mx-auto text-center">
             <h3>
               FIGHT CLIMATE CHANGE WHILE LEARNING <br /> ABOUT INVESTING AND
               IMPACT ASSESSMENT
             </h3>
             <hr className="underline-heading" />
-            <div className="container">
+            <div className="container-fluid">
               <div className="row">
                 <div className="col-md-3  col-sm-12  col-xs-12 mx-auto text-left">
                   <div className="how-point-container  h-100">

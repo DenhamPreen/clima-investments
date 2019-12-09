@@ -6,7 +6,7 @@ const TradingBlurb = () => {
     <div className="container-fluid align-items-center trading-blurb">
       <div className="row">
         <div className="col-md-1 col-sm-12  col-xs-12"></div>
-        <div className="col-md-10 col-sm-12  col-xs-12 text-center">
+        <div className="col-md-10 col-sm-12  col-xs-12 text-center mx-auto">
           <h5>
             No trading fees, no hidden charges, no commissions <br />
             <small>

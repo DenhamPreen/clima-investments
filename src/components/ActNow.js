@@ -13,7 +13,7 @@ const ActNow = () => {
               The transition to carbon neutrality will require large-scale
               investments
             </h5>
-            <div className="container">
+            <div className="container-fluid">
               <div className="row">
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-question-circle mb-4 icons-for-act"></i>

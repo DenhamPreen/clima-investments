@@ -7,9 +7,9 @@ const Quote = () => {
       <div className="row">
         <div className="col-md-12  col-sm-12  col-xs-12 mx-auto">
           <div className="mx-auto text-center">
-            <div className="container">
+            <div className="container-fluid">
               <div className="row">
-                <div className="col-md-10  col-sm-12  col-xs-12 mx-auto text-left quote-container">
+                <div className="col-md-8  col-sm-12  col-xs-12 mx-auto text-left quote-container">
                   <img
                     src="/assets/opening-quote.png"
                     className="opening-quote"

@@ -1,10 +1,10 @@
 Todo
 -----------
 - Code clean
-- For the iphone - use the avatar top left, 6 icons (renewable energe, low carbonm transport, plant based diet, recycling, new materials, energy storage, impactful finance)
 
 Completed
 -----------
+- For the iphone - use the avatar top left, 6 icons (renewable energe, low carbonm transport, plant based diet, recycling, new materials, energy storage, impactful finance)
 - Form style
 - Git
 - Deploying to now 

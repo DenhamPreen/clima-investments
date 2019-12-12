@@ -99,6 +99,14 @@ const NavigationBar = () => {
           </div>
         </div>
       </div>
+      {/* <div className="row">
+        <div className="col-md-12  col-sm-12  col-xs-12">
+          <h3 className="text-white margin-for-nav text-right">
+            Making green investments
+            <br /> accessible and simple
+          </h3>
+        </div>
+      </div> */}
     </div>
   );
 };

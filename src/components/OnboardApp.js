@@ -54,7 +54,7 @@ const OnboardApp = () => {
           </div>
         </div>
         <div className="col-md-4 col-lg-6 col-sm-12  col-xs-12 iphone-screen">
-          <img src="/assets/app.png" className="iphones" />
+          <img src="/assets/iphonesn.png" className="iphones" />
         </div>
       </div>
     </div>

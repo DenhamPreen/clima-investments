@@ -55,6 +55,7 @@ Need better quality image to scale dynamically
 @media (max-width: 768px) {
   .margin-move {
     margin-left: auto;
+    padding: 0rem;
   }
 }
 

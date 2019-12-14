@@ -44,7 +44,7 @@ Need better quality image to scale dynamically
 .margin-move {
   padding: 5rem 1rem 1rem 1rem;
   background-color: rgba(50, 50, 50, 0.75);
-  margin-top: 10rem !important;
+  margin-top: 8rem !important;
   margin-left: 14vw;
 }
 
@@ -54,6 +54,7 @@ Need better quality image to scale dynamically
 
 @media (max-width: 768px) {
   .margin-move {
+    margin-top: 14rem !important;
     margin-left: auto;
     padding: 0rem;
   }

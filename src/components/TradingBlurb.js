@@ -8,10 +8,10 @@ const TradingBlurb = () => {
         <div className="col-md-1 col-sm-12  col-xs-12"></div>
         <div className="col-md-10 col-sm-12  col-xs-12 text-center mx-auto">
           <h5>
-            The most thoughtful green Ed FinTech platform in the world <br />{" "}
-            <i>
-              <strong>entry level subscription free for life</strong>
-            </i>
+            <strong>
+              The most thoughtful Green Ed FinTech platform in the world
+            </strong>{" "}
+            <br /> <i>Entry level subscription free for life</i>
           </h5>
         </div>
         <div className="col-md-1 col-sm-12  col-xs-12"></div>

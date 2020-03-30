@@ -18,22 +18,25 @@ const ActNow = () => {
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-question-circle mb-4 icons-for-act"></i>
                   <h5>
-                    <strong> Not ready to invest?</strong> But curious to learn
-                    more?
+                    <strong> Not ready to invest?</strong> This is the place for
+                    you to learn how to
                   </h5>
                 </div>
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-edit mb-4 icons-for-act"></i>
                   <h5>
-                    <strong>Open an account with no investment</strong> and for
-                    two months experience what we can offer
+                    <strong>Take notes,</strong> create a wishlist of green
+                    shares, ETFs, and bonds
                   </h5>
                 </div>
                 <div className="col-md-4  col-sm-12  col-xs-12 mx-auto text-center">
                   <i className="fas fa-coins mb-4 icons-for-act"></i>
                   <h5>
-                    <strong>Then transfer funds</strong> once you are happy with
-                    how we plan to invest your savings
+                    <strong>
+                      We will show you the cool investment platforms
+                    </strong>{" "}
+                    where you can execute the order ideas you generate in our
+                    platform
                   </h5>
                 </div>
               </div>

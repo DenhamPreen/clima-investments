@@ -14,9 +14,9 @@ const Footer = () => {
           >
             <p>
               This website is not an invitation to engage in investment
-              activity. Clima.Investments will cater to UK residents only and
-              will be regulated by the FCA. If you have any enquiries please
-              contact{" "}
+              activity. Clima.Investments will launch in key English speaking
+              countries and will not be a platform to arrange or execute
+              investments. If you have any enquiries please contact{" "}
               <a href="mailto:info@clima.investments">
                 {" "}
                 info@clima.investments

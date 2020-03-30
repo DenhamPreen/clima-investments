@@ -8,14 +8,10 @@ const TradingBlurb = () => {
         <div className="col-md-1 col-sm-12  col-xs-12"></div>
         <div className="col-md-10 col-sm-12  col-xs-12 text-center mx-auto">
           <h5>
-            No trading fees, no hidden charges, no commissions <br />
-            <small>
-              {" "}
-              <i>
-                <strong>Simple</strong> and <strong>clear flat fee</strong>{" "}
-                structure
-              </i>
-            </small>
+            The most thoughtful green Ed FinTech platform in the world <br />{" "}
+            <i>
+              <strong>entry level subscription free for life</strong>
+            </i>
           </h5>
         </div>
         <div className="col-md-1 col-sm-12  col-xs-12"></div>

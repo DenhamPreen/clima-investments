@@ -7,10 +7,9 @@ const OnboardApp = () => {
       <div className="row d-flex h-100 align-items-center  mx-auto">
         <div className="col-md-4 col-lg-6 col-sm-12  col-xs-12">
           <div className="onboard-details">
-            <h3>
-              {" "}
-              OPEN AN INVESTMENT ACCOUNT IN JUST A FEW MINUTES WITH AS LITTLE AS{" "}
-              <strong>£100</strong>
+            <h3 style={{ textTransform: "uppercase" }}>
+              Join our community and learn about the climate champion companies
+              bringing the world to net zero emissions
             </h3>
             <br />
             <br />
@@ -27,7 +26,7 @@ const OnboardApp = () => {
               </li>
               <li>
                 <h5>
-                  <strong>Solid targeted returns</strong>{" "}
+                  <strong>Solid universe of vetted securities</strong>{" "}
                   <span className="thin-text">
                     for high impact investments that will contribute to carbon
                     neutrality
@@ -37,17 +36,20 @@ const OnboardApp = () => {
               <li>
                 {" "}
                 <h5>
-                  <strong>Save frequently</strong>{" "}
+                  <strong>Unique discovery tools</strong>{" "}
                   <span className="thin-text">
-                    with subsequent investments as little as £10
+                    to help you choose the securities that you would like to
+                    invest into
                   </span>
                 </h5>
               </li>
               <li>
                 {" "}
                 <h5>
-                  <strong>Portfolios designed</strong>{" "}
-                  <span className="thin-text">to match your risk profile</span>
+                  <strong>Learn</strong>{" "}
+                  <span className="thin-text">
+                    how to build impactful green portfolios{" "}
+                  </span>
                 </h5>
               </li>
             </ul>

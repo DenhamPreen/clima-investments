@@ -18,10 +18,8 @@ class Home extends Component {
             <div className="col-md-12  col-sm-12  col-xs-12  mx-auto">
               <div className="text-center margin-move mx-auto">
                 <h2 className="text-white mx-auto ">
-                  The App-Based Platform That Makes Net-Zero <br /> Carbon
-                  Emission Investments Easy & Accessible
-                  {/* The App-Based Platform for <br />
-                  Net-Zero Carbon Emission Investments */}
+                  The must have platform where to learn about <br /> investments
+                  that can decarbonize the planet
                 </h2>
               </div>
             </div>

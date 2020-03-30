@@ -9,8 +9,8 @@ Completed
 - Git
 - Deploying to now 
 
-- Google Analytics
-- Invest for impact - swop subheading with heading
+- Google Analytics some kind of change
+- Invest for impact - swop subheading with heading ad
 - Above the fold, swap subheading and heading (make new subheading slihgly bigger )
 - Update invest for impact copy - from email content
 
@@ -24,8 +24,6 @@ make bullet points with ticks, make points slightly bigger
 - Make numbers clima pink
 - After quote add grey section with "Not ready to invest?  But curious to learn more? – Open an account with no investment and for two months experience what we can offer. Then transfer funds once you are happy with how we plan to invest your savings."
 - Linking to domain 
-
-
 
 - Make home image bolder
 - Raise home page text

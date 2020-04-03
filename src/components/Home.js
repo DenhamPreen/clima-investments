@@ -19,7 +19,7 @@ class Home extends Component {
               <div className="text-center margin-move mx-auto">
                 <h2 className="text-white mx-auto ">
                   The must have platform where to learn about <br /> investments
-                  that can decarbonize the planet
+                  that can decarbonise the planet
                 </h2>
               </div>
             </div>
